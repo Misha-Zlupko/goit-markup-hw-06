@@ -57,6 +57,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: var(--h2-text-color);    
     position: relative;
+    overflow-x: hidden; 
 }
 
 
